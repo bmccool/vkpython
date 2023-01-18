@@ -1,2 +1,5 @@
 glfw
 pytest
+vulkan
+git+https://github.com/bmccool/pymccool@v0.2.0#egg=pymccool
+-e .
